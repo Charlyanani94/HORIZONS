@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433949561289",
+    "project_id": "horizons-apps",
+    "storage_bucket": "horizons-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433949561289:android:7ac54451697ee805c79818",
+        "android_client_info": {
+          "package_name": "com.example.horizons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmqspCMkcMByzR2dv5msl5NmYx7KO9b4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
